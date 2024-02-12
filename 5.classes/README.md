@@ -93,7 +93,7 @@ console.log(picknick.state); //15
  ```js
 const library = new Library("Библиотека имени Ленина");
 
- library.addBook(
+ library.addBook(сщт
   new DetectiveBook(
     "Артур Конан Дойл",
     "Полное собрание повестей и рассказов о Шерлоке Холмсе в одном томе",
